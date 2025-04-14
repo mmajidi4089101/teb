@@ -1,0 +1,11 @@
+/* App.css */
+
+/* بدنه کلی */
+body {
+  font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: black;
+  overflow-x: hidden;
+}

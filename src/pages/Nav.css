@@ -1,0 +1,54 @@
+/* App.css */
+
+/* برای ایجاد یک پس‌زمینه و استایل کلی */
+body {
+  font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: black;
+  padding-top: 100px; /* فضای خالی برای منوی ثابت */
+  
+}
+
+/* استایل کلی ناوبری - ثابت در بالای صفحه */
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  height: 80px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  border-radius: 10px 10px 0 0;
+  padding: 0 20px;
+  color: black;
+}
+
+/* استایل لینک‌ها */
+nav a {
+  color: black;
+  text-decoration: none;
+  margin: 0 20px; /* فاصله بیشتر برای منو */
+  font-size:55px; /* فونت بزرگ‌تر (26px) */
+  padding: 12px 20px; /* افزایش padding برای بزرگ‌تر کردن لینک‌ها */
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+/* تغییر رنگ لینک‌ها هنگام hover */
+nav a:hover {
+  background-color: #ff6347;
+  color: white;
+}
+
+/* استایل برای لینک فعال */
+nav a.active-link {
+  background-color: #4caf50;
+  font-weight: bold;
+  font-size: 1.9rem; /* فونت بزرگ‌تر برای لینک فعال (28px) */
+}

@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "majaleh": "This is Majale Salamat",
+    "marakez": "marakez",
+    "majales": "majales",
+    "nobat": "nobat",
+    "products": "Products",
+    "best_health_centers": "Best Health Centers",
+    "specialized_experts": "Specialized Experts",
+    "best_medical_equipment": "Best Medical Equipment"
+  },
+  "products": {
+    "blood_pressure": {
+      "title": "Digital Arm Blood Pressure Monitor",
+      "description": "Accurate blood pressure measurement at home",
+      "details": "Memory storage, large display, heart rate indicator, ideal for home use"
+    },
+    "thermometer": {
+      "title": "Digital Medical Thermometer",
+      "description": "Ideal for measuring body temperature at home",
+      "details": "Precise sensor, fast reading, suitable for kids and adults"
+    },
+    "glucose_meter": {
+      "title": "Blood Glucose Meter",
+      "description": "Quick blood sugar test at home",
+      "details": "Includes test strips, internal memory, portable and lightweight"
+    },
+    "humidifier": {
+      "title": "Cool Mist Humidifier",
+      "description": "Adds moisture to air, relieves dry skin and breathing issues",
+      "details": "Silent, LED light, great for bedrooms and children, 4L tank"
+    }
+  }
+}
