@@ -10,7 +10,20 @@
     "products": "محصولات",
     "best_health_centers": "بهترین مراکز درمانی",
     "specialized_experts": "افراد متخصص",
-    "best_medical_equipment": "بهترین تجهیزات پزشکی"
+    "best_medical_equipment": "بهترین تجهیزات پزشکی",
+    "ourServices": "خدمات ما",
+    "Expertise and experience":"تخصص و تجربه:",
+    "The doctors and medical staff of this clinic are experienced and professional specialists in various medical fields. This feature makes patients feel safe and confident." :"پزشکان و کادر درمانی این کلینیک از متخصصان با تجربه و حرفه‌ای در زمینه‌های مختلف پزشکی هستند. این ویژگی باعث می‌شود بیماران احساس امنیت و اطمینان داشته باشند.",
+    "Advanced features:":"امکانات پیشرفته:",
+"Imam Mujtaba (AS) Clinic is equipped with the best and most modern medical equipment used to diagnose and treat diseases. This equipment helps doctors to diagnose and treat diseases more accurately and quickly." :"کلینیک امام مجتبی (ع) مجهز به بهترین و مدرن‌ترین تجهیزات پزشکی است که برای تشخیص و درمان بیماری‌ها استفاده می‌شود. این تجهیزات به پزشکان کمک می‌کنند تا دقیق‌تر و سریع‌تر به تشخیص و درمان بیماری‌ها بپردازند",
+"Various services" :"خدمات متنوع",
+"clinic provides" :"این کلینیک خدماتی از قبیل مشاوره‌های پزشکی، معاینات تخصصی، آزمایشات، تصویربرداری پزشکی، درمان‌های مختلف و مراقبت‌های ویژه را به بیماران ارائه می‌دهد. همچنین، در صورت نیاز، بیماران می‌توانند از خدمات جراحی و درمان‌های تخصصی استفاده کنند    ",
+"accessibility3":"دسترس‌پذیری",
+"patients feel ":"فضای داخلی کلینیک به گونه‌ای طراحی شده است که بیماران در یک محیط آرام و دوستانه احساس راحتی کنند. این ویژگی به خصوص برای بیماران با مشکلات روانی و اضطرابی بسیار اهمیت دارد",
+"Calm and friendly environment:" :"محیط آرام و دوستانه",
+"features of this clinic" :"یکی از ویژگی‌های مهم این کلینیک، دسترسی آسان به خدمات آن است. با ارائه نوبت‌دهی آنلاین و پذیرش بیماران در ساعات مختلف، این مرکز درمانی باعث راحتی مراجعه‌کنندگان می‌شود.",
+"Special services": "خدمات ویژه به نیازمندان:",
+"provides medical services " :"این کلینیک به عنوان یک مرکز درمانی با نگاه انسانی، به اقشار نیازمند نیز خدمات ارائه می‌دهد و در بسیاری از موارد، خدمات درمانی را به صورت رایگان یا با هزینه کم در اختیار افراد کم درآمد قرار می‌دهد."
   },
   "products": {
     "blood_pressure": {

@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { Carousel } from 'flowbite-react';
@@ -42,8 +41,53 @@ function App() {
             <Route path="*" element={<div>{t('error')}</div>} />
           </Routes>
         </main>
-        <footer className="mt-auto p-4 bg-slate-500 text-white text-center">
-          {t('footer')}
+
+        {/* فوتر */}
+        <footer className="bg-slate-800 text-white py-8 mt-auto">
+          <div className="container mx-auto text-center space-y-6">
+            {/* ردیف 1: کپی رایت */}
+            <div className="text-center mb-4">
+              <p>© 2025 تمامی حقوق محفوظ است</p>
+            </div>
+
+            {/* ردیف 2: لینک‌های مهم */}
+            <div className="flex justify-center gap-6 mb-6 flex-wrap">
+              <NavLink to="/about" className="text-white hover:text-orange-500 transition duration-300">
+                درباره ما
+              </NavLink>
+              <NavLink to="/products" className="text-white hover:text-orange-500 transition duration-300">
+                محصولات
+              </NavLink>
+              <NavLink to="/nobat" className="text-white hover:text-orange-500 transition duration-300">
+                نوبت‌دهی
+              </NavLink>
+              <NavLink to="/marakez" className="text-white hover:text-orange-500 transition duration-300">
+                مراکز
+              </NavLink>
+            </div>
+
+            {/* ردیف 3: شبکه‌های اجتماعی */}
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 justify-center mb-6">
+              <a href="#" className="text-white hover:text-blue-500 transition duration-300">
+                <i className="fab fa-facebook-f text-xl"></i> {/* آیکن فیسبوک */}
+              </a>
+              <a href="#" className="text-white hover:text-blue-400 transition duration-300">
+                <i className="fab fa-twitter text-xl"></i> {/* آیکن توییتر */}
+              </a>
+              <a href="#" className="text-white hover:text-pink-500 transition duration-300">
+                <i className="fab fa-instagram text-xl"></i> {/* آیکن اینستاگرام */}
+              </a>
+              <a href="#" className="text-white hover:text-blue-600 transition duration-300">
+                <i className="fab fa-linkedin text-xl"></i> {/* آیکن لینکدین */}
+              </a>
+              <a href="#" className="text-white hover:text-green-500 transition duration-300">
+                <i className="fab fa-whatsapp text-xl"></i> {/* آیکن واتساپ */}
+              </a>
+              <a href="#" className="text-white hover:text-red-500 transition duration-300">
+                <i className="fab fa-youtube text-xl"></i> {/* آیکن یوتیوب */}
+              </a>
+            </div>
+          </div>
         </footer>
       </div>
     </Router>

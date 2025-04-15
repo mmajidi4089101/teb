@@ -10,7 +10,22 @@
     "products": "Products",
     "best_health_centers": "Best Health Centers",
     "specialized_experts": "Specialized Experts",
-    "best_medical_equipment": "Best Medical Equipment"
+    "best_medical_equipment": "Best Medical Equipment",
+    "ourServices": "Our Services",
+    "Expertise and experience":"Expertise and experience",
+    "The doctors and medical staff of this clinic are experienced and professional specialists in various medical fields. This feature makes patients feel safe and confident." :"The doctors and medical staff of this clinic are experienced and professional specialists in various medical fields. This feature makes patients feel safe and confident.",
+    "Advanced features:":"Advanced features",
+"Imam Mujtaba (AS) Clinic is equipped with the best and most modern medical equipment used to diagnose and treat diseases. This equipment helps doctors to diagnose and treat diseases more accurately and quickly.":"Imam Mujtaba (AS) Clinic is equipped with the best and most modern medical equipment used to diagnose and treat diseases. This equipment helps doctors to diagnose and treat diseases more accurately and quickly.",
+"Various services":"Various services",
+"clinic provides":"This clinic provides patients with services such as medical consultations, specialized examinations, tests, medical imaging, various treatments and intensive care. Also, if needed, patients can use surgical services and specialized treatments.",
+"accessibility3":"accessibility3",
+"patients feel ":"The clinic's interior is designed to make patients feel comfortable in a calm and friendly environment. This feature is especially important for patients with psychological and anxiety problems.",
+"Calm and friendly environment:" :"Calm and friendly environment:",
+"features of this clinic" :"One of the important features of this clinic is its easy access to its services. By offering online appointments and accepting patients at various hours, this medical center provides convenience to its clients.",
+"Special services": "Special services for those in need",
+"provides medical services " :"As a medical center with a humane perspective, this clinic also provides services to those in need and, in many cases, provides medical services to low-income people for free or at a low cost."
+
+
   },
   "products": {
     "blood_pressure": {
