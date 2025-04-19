@@ -33,9 +33,17 @@ const products = [
   {
     id: 4,
     key: 'humidifier',
-    images: ['/images/humidifier1.webp', '/images/humidifier2.webp'],
+    images: ['/images/glucose_meter2.webp', '/images/humidifier2.webp'],
     stock: 12,
     price: 750000,
+    discount: 0.2,
+  },
+  {
+    id: 6,
+    key: 'humidifier2',
+    images: [ '/images/glucose_meter2.webp'],
+    stock: 25,
+    price: 10000000,
     discount: 0.2,
   },
 ];
